@@ -1,5 +1,5 @@
 # CN-Lab
-Cisco Packet Tracer uses "".pkt" files so simply download the files to your computer, and open then with the app.
+Cisco Packet Tracer uses ".pkt" files so simply download the files to your computer, and open then with the app.
 
 > I'm trying to screen record and upload snippets of how to solve these lab exercises, so if you'd like to contribute feel free to reach out to me.
 
