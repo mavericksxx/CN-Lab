@@ -9,3 +9,4 @@ Checklist:
 3. lab-3 : unable to ping, check for IPs   (upload screen recording)
 4. lab-4 : verified working                (upload screen recording)
 5. lab-5 : verified working                (screen recording uploaded)
+6. lab-6 : verified working                (screen recording uploaded)
